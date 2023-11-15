@@ -1,0 +1,50 @@
+/* ESERCIZIO N°1 */
+.col-md-6.px-0 > h1{
+    color: yellowgreen;
+}
+/* ESERCIZIO N°2 */
+nav > span{
+    color: green;
+}
+/* ESERCIZIO N°3 */
+.jumbotron a{
+    background-color: rgba(255, 0, 0, 0.185);
+}
+/* ESERCIZIO N°4 */
+.blog-post:first-of-type{
+    background-color: orchid;
+}
+/* ESERCIZIO N°5 */
+.blog-post hr{
+    background-color: red;
+}
+/* ESERCIZIO N°6 */
+
+/* ESERCIZIO N°7 */
+.p-4 > .list-unstyled.mb-0 li{
+    background-color: hotpink;
+}
+/* ESERCIZIO N°8 */
+.col-md-8.blog-main .blog-post:nth-of-type(2) .blog-post-meta a{
+    color: olive;
+}
+/* ESERCIZIO N°9 */
+.col-md-8.blog-main .blog-post:last-of-type ul li:nth-of-type(2){
+    background-color: chocolate;
+}
+/* ESERCIZIO N°10 */
+body a:last-of-type{
+    color: grey;
+}
+/* ESERCIZIO N°11 */
+nav:last-of-type a:last-of-type{
+    background-color: pink;
+}
+/* ESERCIZIO N°12 */
+.blog-footer p > a:last-of-type {
+    background-color: gold;
+}
+
+
+
+
